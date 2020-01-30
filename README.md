@@ -1,2 +1,2 @@
 # jsbattleship
-Just a small, simple Battleship game made with Javascript using the Head Start Javascript book.
+A simple Battleship game using Javasctipt. 
